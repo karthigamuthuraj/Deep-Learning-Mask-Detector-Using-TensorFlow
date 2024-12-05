@@ -102,9 +102,6 @@ Each image should represent either a person wearing a mask (`with_mask` folder) 
 
 ![Face Mask Detection Demo](ImageOutPutTest.PNG)
 
-<video width="600" controls>
-  <source src="VideoOutputTest.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 [Watch the demo video](VideoOutputTest.mp4)
