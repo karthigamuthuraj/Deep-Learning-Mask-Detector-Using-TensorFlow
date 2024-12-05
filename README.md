@@ -1,7 +1,3 @@
-Here's the updated version of your README file with instructions for testing video and image using the Streamlit app:
-
----
-
 # Face Mask Detection
 
 ## Overview
@@ -104,7 +100,11 @@ Each image should represent either a person wearing a mask (`with_mask` folder) 
 
 ---
 
-In this version, the **Testing with Video and Image via Streamlit** section has been added, where it provides instructions to launch and use the Streamlit app for testing face mask detection on images and videos.
- ![image](ImageOutPutTest.png)
+![Face Mask Detection Demo](ImageOutPutTest.PNG)
 
- [Watch the demo video](VideoOutputTest.mp4)
+<video width="600" controls>
+  <source src="VideoOutputTest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[Watch the demo video](VideoOutputTest.mp4)
