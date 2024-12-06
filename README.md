@@ -105,3 +105,7 @@ Each image should represent either a person wearing a mask (`with_mask` folder) 
 
 
 [Watch the demo video](VideoOutputTest.mp4)
+
+[Demo App](https://huggingface.co/spaces/karthigamuthuraj/RealTimeFaceMaskDetection)
+
+
